@@ -34,7 +34,6 @@ To set up the environment and run the project, follow these steps:
 
 ## Usage
 ### Uploading PDFs
-- Navigate to `http://localhost:8000` in your web browser.
 - Click on the upload button to select and upload a PDF file.
 
 ### Asking Queries
