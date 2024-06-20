@@ -32,6 +32,10 @@ To set up the environment and run the project, follow these steps:
    python -m spacy download en_core_web_sm
    ```
 
+## Start Command
+- Python pdf.py
+
+
 ## Usage
 ### Uploading PDFs
 - Click on the upload button to select and upload a PDF file.
